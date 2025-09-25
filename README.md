@@ -16,6 +16,7 @@
 
 ## Cách chạy chương trình
 1. Clone hoặc tải repo về
-2. Khôi phục database từ `qlbDienThoai.sql`
-3. Mở file `QuanLyBanDienThoai.sln` bằng Visual Studio
-4. Chạy chương trình (F5)
+2. Giải nén packages.zip ra thư mục packages ở cấp gốc của project
+3. Khôi phục database từ `qlbDienThoai.sql`
+4. Mở file `QuanLyBanDienThoai.sln` bằng Visual Studio
+5. Chạy chương trình (F5)
